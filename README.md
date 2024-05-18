@@ -33,13 +33,13 @@
 
 ### Решение 1
 
-[suricata_nmap-sA](https://github.com/sash3939/Network-Defence/assets/156709540/b5e97ec2-6365-4b4f-9109-50de44344253)
+TCP ACK сканирование [suricata_nmap-sA](https://github.com/sash3939/Network-Defence/assets/156709540/b5e97ec2-6365-4b4f-9109-50de44344253)  Нарушение корпоративной конфиденциальности в контексте обнаружения имени хоста Kali Linux в DHCP-запросе
 
-[suricata_nmap-sT](https://github.com/sash3939/Network-Defence/assets/156709540/803ad02c-ea78-4928-aaaf-03b64350df79)
+TCP сканирование с использованием системного вызова connect [suricata_nmap-sT](https://github.com/sash3939/Network-Defence/assets/156709540/803ad02c-ea78-4928-aaaf-03b64350df79)   Потенциальна утечка через открытые порты БД, вредоносный трафик
 
-[suricata_nmap-sS](https://github.com/sash3939/Network-Defence/assets/156709540/054afae5-b09f-4292-838a-7b5ec798048a)
+TCP SYN сканирование [suricata_nmap-sS](https://github.com/sash3939/Network-Defence/assets/156709540/054afae5-b09f-4292-838a-7b5ec798048a)  Подозрительный входящий трафик, направленный на порт 3306, который по умолчанию используется для MySQL. Это может свидетельствовать о попытке сканирования порта, атаки на базу данных, порты 5900-5920 VNC скан, утечка данных, Postgres, Oracle сканирование БД
 
-[suricata_nmap-sV](https://github.com/sash3939/Network-Defence/assets/156709540/26a5d0e2-567c-44dc-a967-c5f987148503)
+Исследовать открытые порты для определения информации о службе/версии [suricata_nmap-sV](https://github.com/sash3939/Network-Defence/assets/156709540/26a5d0e2-567c-44dc-a967-c5f987148503)
 
 ------
 
