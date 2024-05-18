@@ -30,6 +30,17 @@
 
 *В качестве ответа пришлите события, которые попали в логи Suricata и Fail2Ban, прокомментируйте результат.*
 
+
+### Решение 1
+
+[suricata_nmap-sA](https://github.com/sash3939/Network-Defence/assets/156709540/b5e97ec2-6365-4b4f-9109-50de44344253)
+
+[suricata_nmap-sT](https://github.com/sash3939/Network-Defence/assets/156709540/803ad02c-ea78-4928-aaaf-03b64350df79)
+
+[suricata_nmap-sS](https://github.com/sash3939/Network-Defence/assets/156709540/054afae5-b09f-4292-838a-7b5ec798048a)
+
+[suricata_nmap-sV](https://github.com/sash3939/Network-Defence/assets/156709540/26a5d0e2-567c-44dc-a967-c5f987148503)
+
 ------
 
 ### Задание 2
