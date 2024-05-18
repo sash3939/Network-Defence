@@ -67,3 +67,14 @@ TCP SYN сканирование [suricata_nmap-sS](https://github.com/sash3939/
 
 
 *В качестве ответа пришлите события, которые попали в логи Suricata и Fail2Ban, прокомментируйте результат.*
+
+### Решение 2
+
+
+[fail2ban banned ip](https://github.com/sash3939/Network-Defence/assets/156709540/8c3ae14d-1f2b-43b5-9953-021eb4e4dd86)
+
+[when fail2ban started](https://github.com/sash3939/Network-Defence/assets/156709540/5c3ce053-52a5-4856-be03-8e4b8c8d1241)
+
+[when fail2ban stopped](https://github.com/sash3939/Network-Defence/assets/156709540/bbcdb790-9a8e-4709-befc-3ff7a6af9931)
+
+
